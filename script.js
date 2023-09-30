@@ -3,7 +3,6 @@ const front = document.querySelectorAll('.front')
 const container = document.querySelector('.container')
 const score = document.querySelector('.score span')
 
-
 suffleImage()
 clicking()
 function suffleImage() {
